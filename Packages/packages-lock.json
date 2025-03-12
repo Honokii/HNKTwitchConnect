@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.nemuge.essentials": {
+      "version": "https://github.com/Honokii/Nemuge-Essentials.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a33b20c2ca49ecb760c3c37707996aba7aa26232"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.5",
       "depth": 0,
